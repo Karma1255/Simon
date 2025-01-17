@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("pexels-cottonbro-3945683.jpg");
+    background-size: 100%;
+}
+
+.contaier{
+    display: flex;
+    justify-content: cover;
+    
+}
+
+
+
+.btn{
+ height: 200px;
+ width: 200px;
+ border-radius: 20%;
+ border: 10px solid black;
+ margin: 1rem;
+}
+
+.f_div{
+    display: inline-block;
+}
+
+.s_div{
+    display: inline-block;
+}
+.red{
+    background-color:#BA0F30;
+}
+
+.green{
+    background-color:#778A35;
+}
+
+.orange{
+    background-color:#FD7F20;
+}
+
+.purple{
+    background-color:#9964A8;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    /* background-color: rgb(16, 163, 221); */
+    /* background-color: #CBEACB; */
+    background-color: #000000;
+}
